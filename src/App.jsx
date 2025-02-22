@@ -8,9 +8,10 @@ function App() {
   //Set array variable for storing projects.
   const projects = [
   
-    {  title: "Project 1",
-    description: "Dog Management System with Java SpringBoot, React, MySql, and POSTMAN",
-    link: "https://github.com/Masahiro-jobson/DogSystemApplicationFullStack.git"
+    { 
+      title: "Project 1",
+      description: "Dog Management System with Java SpringBoot, React, MySql, and POSTMAN",
+      link: "https://github.com/Masahiro-jobson/DogSystemApplicationFullStack.git"
     },
     {
       title: "Project 2",
