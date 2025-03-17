@@ -6,26 +6,31 @@ function ProjectList(){
   
     { 
       title: "Project 1",
+      description: "AI-Email-Writer with Gemini API",
+      link: "https://github.com/Masahiro-jobson/AI-email-writer-frontend/tree/main"
+    },
+    { 
+      title: "Project 2",
       description: "Dog Management System with Java SpringBoot, React, MySql, and POSTMAN",
       link: "https://github.com/Masahiro-jobson/DogSystemApplicationFullStack.git"
     },
     {
-      title: "Project 2",
+      title: "Project 3",
       description: "To do list (Trello-Clone) with React",
       link: "https://github.com/Masahiro-jobson/Trello-clone-To-do-list-.git"
     },
     {
-      title: "Project 3",
+      title: "Project 4",
       description: "To Do List with Java Swing",
       link: "https://github.com/Masahiro-jobson/ToDoList.git"
     },
     {
-      title: "Project 4",
+      title: "Project 5",
       description: "TakeAwayMenu with Java",
       link: "https://github.com/Masahiro-jobson/TakeAwayMenu.git"
     },
     {
-      title: "Project 5",
+      title: "Project 6",
       description: "HowToUseRestAPI with JAVA SpringBoot",
       link: "https://github.com/Masahiro-jobson/HowToDoRestAPI.git"
     }
